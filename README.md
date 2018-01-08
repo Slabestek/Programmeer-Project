@@ -15,7 +15,7 @@ intend to build shows those numbers in an easy to grasp format.
 I want to show that an increase in drug-related arrests does not decrease drug use, addiction and
 deaths.
 Sketch:
-![alt text](doc/Blankmap-USA-states.PNG)
+![alt text](doc/BlankMap-USA-states.PNG)
 Features:
 -Users can see drug use by state on a map, and choose which year it shows from a dropdown (MVP)
 -Users can see drug-related deaths and addiction in a grouped barchart and can choose which year it
